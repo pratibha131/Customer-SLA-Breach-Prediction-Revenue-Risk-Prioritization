@@ -38,6 +38,14 @@ This project combines SQL, Python, and Excel, each used where it is strongest:
 | Risk modeling  | Python      | Churn risk & revenue impact       |
 | Decision layer | Excel       | Operational & executive decisions |
 
+## Quick Start
+
+To run this project locally:
+1. Import SQL scripts into MySQL
+2. Run the Python notebook to generate prioritization
+3. Open the Excel file to view decision sheets
+
+
 ## 🗂️ Data Model (SQL)
 #### Core Tables
 
