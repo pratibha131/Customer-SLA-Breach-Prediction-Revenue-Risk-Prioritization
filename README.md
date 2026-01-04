@@ -24,11 +24,9 @@ Customers have unequal business value
 
 Not all SLA breaches carry the same financial risk
 
-Why this matters
+#### Why this matters
 
-Resolving the wrong tickets first can lead to:
-
-High-value customer churn
+Resolving the wrong tickets first disproportionately impacts high-value customers, increasing churn and revenue loss. 
 
 ## 🧠 Solution Approach
 
@@ -106,6 +104,8 @@ Fixing just 2 of 5 tickets (40%) protects ~87% of revenue at risk.
 
 <img width="1091" height="329" alt="image" src="https://github.com/user-attachments/assets/cf5948cd-f1fc-4724-bf12-3d30c064faf6" />
 
+Revenue protected refers to potential churn-related revenue loss avoided by resolving selected tickets.
+
 #### Key metrics:
 
 Total open tickets
@@ -175,8 +175,3 @@ Not to create dashboards — but to make decisions under constraints.
 
 It translates raw operational data into clear, defensible actions that protect revenue.
 
-
-
-SLA penalties
-
-Disproportionate revenue loss
